@@ -7,10 +7,10 @@ This is my take at solving this year's Advent of Code in Rust.
 - [x] Day 2 - [Solution](src/bin/02.rs)
 - [x] Day 3 - [Solution](src/bin/03.rs)
 - [x] Day 4 - [Solution](src/bin/04.rs)
-- [ ] Day 5
-- [ ] Day 6
-- [ ] Day 7
-- [ ] Day 8
+- [x] Day 5 - [Solution](src/bin/05.rs)
+- [x] Day 6 - [Solution](src/bin/06.rs)
+- [x] Day 7 - [Solution](src/bin/07.rs)
+- [x] Day 8 - [Solution](src/bin/08.rs)
 - [ ] Day 9
 - [ ] Day 10
 - [ ] Day 11
